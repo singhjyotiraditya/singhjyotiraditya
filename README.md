@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=singhjyotiraditya&show_icons=true&locale=en" alt="singhjyotiraditya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singhjyotiraditya&" alt="singhjyotiraditya" /></p>
+
+![](https://leetcard.jacoblin.cool/jyotiraditya_singh?ext=heatmap)
