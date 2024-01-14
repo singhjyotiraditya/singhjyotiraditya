@@ -30,4 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singhjyotiraditya&" alt="singhjyotiraditya" /></p>
 
-![](https://leetcard.jacoblin.cool/jyotiraditya_singh?ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/jyotiraditya_singh?theme=light&font=Harmattan&ext=heatmap)
